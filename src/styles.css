@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.singleImage {
+  height: 300px;
+  width: 500px;
+}
+
+.carouselContainer {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.imagesContainer {
+  display: flex;
+  margin-top: 15px;
+  margin: 20px;
+  justify-content: space-around;
+}
+
+.smallImg {
+  height: 30px;
+  width: 50px;
+}
